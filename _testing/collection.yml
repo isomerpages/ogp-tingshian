@@ -2,4 +2,5 @@ collections:
   testing:
     output: true
     order:
+      - Test/Example Title.md
       - Test/.keep
