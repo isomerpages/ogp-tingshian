@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Sub 1/.keep
-      - Example Title.md
