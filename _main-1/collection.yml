@@ -2,7 +2,7 @@ collections:
   main-1:
     output: true
     order:
-      - Sub 1/Example Title 2.md
       - Sub 1/.keep
       - Sub 1/Example Title.md
       - Sub 1/Example Title 1.md
+      - Sub 1/Example Title 2.md
